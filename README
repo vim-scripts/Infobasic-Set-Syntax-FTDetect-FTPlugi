@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1810
+
+It allows work with infobasic scripts, for jbase programming and Globus/T24 App.
+
+* Syntax Highlighting
+* FileType Recognition (Because this files doesn't have extension, i convent that all files have the letters SFC from my company)
+* Compiler
+* Indent
